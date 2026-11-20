@@ -1,8 +1,8 @@
-:HL["/mike-designs-preview/_next/static/chunks/35vs6vpjozazk.css","style"]
+:HL["/mike-designs-preview/_next/static/chunks/4105oh3mrrgz3.css","style"]
 :HL["/mike-designs-preview/_next/static/media/3679aa72a9b9035f-s.p.0h6ig86gwutp4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mike-designs-preview/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://images.unsplash.com/photo-1770453676391-90fb980543e5?auto=format&fit=crop&w=900&q=72","image",{"imageSrcSet":"https://images.unsplash.com/photo-1770453676391-90fb980543e5?auto=format&fit=crop&w=480&q=72 480w, https://images.unsplash.com/photo-1770453676391-90fb980543e5?auto=format&fit=crop&w=720&q=72 720w, https://images.unsplash.com/photo-1770453676391-90fb980543e5?auto=format&fit=crop&w=960&q=72 960w, https://images.unsplash.com/photo-1770453676391-90fb980543e5?auto=format&fit=crop&w=1400&q=72 1400w, https://images.unsplash.com/photo-1770453676391-90fb980543e5?auto=format&fit=crop&w=1900&q=72 1900w","imageSizes":"(min-width:1024px) 46vw, 92vw","fetchPriority":"high"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"zuri-studio-uniforms","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"work","h":64,"c":"$Q2"}]]
-0:{"b":"tzKlYvO842Nd9avMETuMB","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"fo-_MRtdlUxYq6Qc2NoJL","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
