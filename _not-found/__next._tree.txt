@@ -1,4 +1,4 @@
-:HL["/mike-designs-preview/_next/static/chunks/1pyezfuoxd9wd.css","style"]
+:HL["/mike-designs-preview/_next/static/chunks/3l5kww9j-jq59.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"yau2JBzTeiMqCwKaiIqsJ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"NR1yb1_QnXJ2HEX7QCkfb","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

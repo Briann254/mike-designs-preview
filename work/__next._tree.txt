@@ -1,6 +1,6 @@
-:HL["/mike-designs-preview/_next/static/chunks/1pyezfuoxd9wd.css","style"]
+:HL["/mike-designs-preview/_next/static/chunks/3l5kww9j-jq59.css","style"]
 :HL["/mike-designs-preview/_next/static/media/3679aa72a9b9035f-s.p.0h6ig86gwutp4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mike-designs-preview/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"work","h":64,"c":"$Q2"}]]
-0:{"b":"yau2JBzTeiMqCwKaiIqsJ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"NR1yb1_QnXJ2HEX7QCkfb","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
