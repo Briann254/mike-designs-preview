@@ -1,27 +1,30 @@
 2:"$Sreact.fragment"
 3:"/mike-designs-preview/_next/static/chunks/3m2bdctua4g4b.js"
-4:"/mike-designs-preview/_next/static/chunks/2p7aq99qb38yp.js"
-5:"/mike-designs-preview/_next/static/chunks/2r33-6-zaj30a.js"
+4:"/mike-designs-preview/_next/static/chunks/2-_w5ejtwfn_w.js"
+5:"/mike-designs-preview/_next/static/chunks/3_jtledt2qrzu.js"
 6:I[39756,["$3","$4","$5"],"default"]
 7:I[37457,["$3","$4","$5"],"default"]
-c:I[97367,["$3","$4","$5"],"OutletBoundary"]
-d:"$Sreact.suspense"
-10:"ViewportBoundary"
-11:I[97367,["$3","$4","$5"],"$10"]
-12:"MetadataBoundary"
-13:I[97367,["$3","$4","$5"],"$12"]
-14:I[27201,["$3","$4","$5"],"IconMark"]
+c:"/mike-designs-preview/_next/static/chunks/3uej8dfqaf2yd.js"
+d:"/mike-designs-preview/_next/static/chunks/32a70xoba2owr.js"
+e:I[95889,["$3","$4","$5","$c","$d"],"PageHero"]
+f:I[97367,["$3","$4","$5"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4","$5"],"$15"]
+17:I[27201,["$3","$4","$5"],"IconMark"]
 9:X
 9:C
 a:X
-b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"relative overflow-hidden pb-12 pt-32 sm:pb-16 sm:pt-40","children":[["$","div",null,{"aria-hidden":true,"className":"halftone-lg fade-radial pointer-events-none absolute -right-24 -top-10 size-[420px] text-gold/70"}],["$","div",null,{"className":"mx-auto w-full max-w-[1320px] px-5 sm:px-10 lg:px-14 relative","children":[["$","p",null,{"className":"label flex items-center gap-2 text-forest","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5","aria-hidden":"true","children":[["$","circle",null,{"cx":"12","cy":"12","r":"6","fill":"none","stroke":"#013E32","strokeWidth":"1.2"}],["$","path",null,{"d":"M12 0v24M0 12h24","stroke":"#013E32","strokeWidth":"1.2"}]]}],["$","span",null,{"children":"Legal"}]]}],["$","h1",null,{"className":"poster mt-5 max-w-5xl text-balance text-[clamp(3.4rem,11vw,8.6rem)] text-forest","children":["$","span",null,{"className":"relative inline-block","children":[["$","span",null,{"aria-hidden":true,"className":"anim-register pointer-events-none absolute inset-0 select-none","style":{"color":"#FCB52C","mixBlendMode":"multiply","animationDelay":"0.1s"},"children":"Terms & conditions"}],["$","span",null,{"className":"relative","children":"Terms & conditions"}]]}]}],["$","div",null,{"className":"mt-6 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between","children":[["$","p",null,{"className":"anim-fade-up max-w-xl text-pretty text-lg leading-relaxed text-ink-2","style":{"animationDelay":"0.3s"},"children":"This page is drafted during Phase 6 from the Mike Designs brief and published only after Mike approves it in writing."}],null]}],"$undefined",["$","div",null,{"className":"relative flex items-center gap-3 text-forest/50 mt-12","aria-hidden":true,"children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-5 shrink-0 -rotate-90","fill":"none","stroke":"currentColor","strokeWidth":"1.8","children":[["$","circle",null,{"cx":"6","cy":"6","r":"3"}],["$","circle",null,{"cx":"6","cy":"18","r":"3"}],["$","path",null,{"d":"M20 4 8.1 15.9M14.5 14.5 20 20M8.1 8.1 12 12"}]]}],["$","span",null,{"className":"h-0 flex-1 border-t-2 border-dashed border-current"}]]}]]}]]}],["$","section",null,{"className":"py-20","children":["$","div",null,{"className":"mx-auto w-full max-w-[1320px] px-5 sm:px-10 lg:px-14 max-w-3xl text-lg leading-relaxed text-ink-2","children":["$","p",null,{"children":"Placeholder. Final wording will cover the topics listed in the brief and be reviewed before launch."}]}]}]],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$a"}}]]
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","$Le",null,{"eyebrow":"Legal","title":"Terms & conditions","intro":"This page is drafted during Phase 6 from the Mike Designs brief and published only after Mike approves it in writing."}],["$","section",null,{"className":"py-20","children":["$","div",null,{"className":"mx-auto w-full max-w-[1320px] px-5 sm:px-10 lg:px-14 max-w-3xl text-lg leading-relaxed text-ink-2","children":["$","p",null,{"children":"Placeholder. Final wording will cover the topics listed in the brief and be reviewed before launch."}]}]}]],[["$","script","script-0",{"src":"/mike-designs-preview/_next/static/chunks/3uej8dfqaf2yd.js","async":true}],["$","script","script-1",{"src":"/mike-designs-preview/_next/static/chunks/32a70xoba2owr.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$a"}}]]
 1:[["children",{"s":"terms","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F3EEE3"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Terms & conditions | Mike Designs"}],["$","meta","1",{"name":"description","content":"Explore graphic design, branded apparel, banners, printing and customised promotional products from Mike Designs. Enquire for a quote for your business, church, event or personal project."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Terms & conditions | Mike Designs"}],["$","meta","4",{"property":"og:description","content":"Explore graphic design, branded apparel, banners, printing and customised promotional products from Mike Designs. Enquire for a quote for your business, church, event or personal project."}],["$","meta","5",{"property":"og:site_name","content":"Mike Designs"}],["$","meta","6",{"property":"og:locale","content":"en_KE"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"Terms & conditions | Mike Designs"}],["$","meta","10",{"name":"twitter:description","content":"Explore graphic design, branded apparel, banners, printing and customised promotional products from Mike Designs. Enquire for a quote for your business, church, event or personal project."}],["$","link","11",{"rel":"icon","href":"/mike-designs-preview/icon.svg?icon.3u2_ifblkh69b.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","12",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$a"}},"a":"$@16","u":"$@17","b":"fo-_MRtdlUxYq6Qc2NoJL"}
-e:null
-17:true
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F3EEE3"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Terms & conditions | Mike Designs"}],["$","meta","1",{"name":"description","content":"Explore graphic design, branded apparel, banners, printing and customised promotional products from Mike Designs. Enquire for a quote for your business, church, event or personal project."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Terms & conditions | Mike Designs"}],["$","meta","4",{"property":"og:description","content":"Explore graphic design, branded apparel, banners, printing and customised promotional products from Mike Designs. Enquire for a quote for your business, church, event or personal project."}],["$","meta","5",{"property":"og:site_name","content":"Mike Designs"}],["$","meta","6",{"property":"og:locale","content":"en_KE"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"Terms & conditions | Mike Designs"}],["$","meta","10",{"name":"twitter:description","content":"Explore graphic design, branded apparel, banners, printing and customised promotional products from Mike Designs. Enquire for a quote for your business, church, event or personal project."}],["$","link","11",{"rel":"icon","href":"/mike-designs-preview/icon.svg?icon.3u2_ifblkh69b.svg","sizes":"any","type":"image/svg+xml"}],["$","$L17","12",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$a"}},"a":"$@19","u":"$@1a","b":"zepDBQJgfJH3oK4KEVTeN"}
+11:null
+1a:true
 a:300
 a:C
-16:0
+19:0
 8:"$undefined"
-15:"$undefined"
-f:"$undefined"
+18:"$undefined"
+12:"$undefined"
