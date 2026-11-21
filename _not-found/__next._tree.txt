@@ -1,4 +1,4 @@
 :HL["/mike-designs-preview/_next/static/chunks/0o46r4emfmo6f.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"MpXAWTqq50nGpC4fjunkK","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"FkvEp0ph3Gkuu3kNbTn-y","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

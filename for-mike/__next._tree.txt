@@ -2,4 +2,4 @@
 :HL["/mike-designs-preview/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"for-mike","h":64,"c":"$Q2"}]]
-0:{"b":"MpXAWTqq50nGpC4fjunkK","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"FkvEp0ph3Gkuu3kNbTn-y","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
