@@ -4,4 +4,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"arise-conference-2025","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"work","h":64,"c":"$Q2"}]]
-0:{"b":"oCXo8EBxoTUoEIoN92rtM","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"JOFv2LQ-XivOscJeJfcsL","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
