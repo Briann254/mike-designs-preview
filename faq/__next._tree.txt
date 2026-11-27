@@ -1,0 +1,5 @@
+:HL["/mike-designs-preview/_next/static/chunks/4270vjljpj9wh.css","style"]
+:HL["/mike-designs-preview/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"faq","h":64,"c":"$Q2"}]]
+0:{"b":"piKTHxIoiUFASn6nD7x6U","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
